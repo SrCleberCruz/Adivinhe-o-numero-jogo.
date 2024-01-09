@@ -23,5 +23,3 @@ while (chute != numeroSecreto) {
 
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);
-
-//criar uma variavel, palavra tentativa é maior que 1? se sim "tentativas" se não : "tentativa"
